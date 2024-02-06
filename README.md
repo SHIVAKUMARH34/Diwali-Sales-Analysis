@@ -1,4 +1,6 @@
 # Diwali Sales Analysis Project
+Python project focuses on analyzing Diwali sales data
+
 
 ## Overview
 
