@@ -1,63 +1,72 @@
-# Diwali Sales Analysis Project
-Python project focuses on analyzing Diwali sales data
+# Diwali Sales Analysis Using Python
+
+#### Overview
+
+This Python project focus on analysing Diwali sales data to gain insights that can be used to enhance customer experience and boost sales. The project utilizes various data analysis techniques to uncover patterns, trends, and key metrics related to Diwali sales.Python and popular data science libraries such as NumPy, Pandas,Seaborn and Matplotlib.
+This project aimed to gain insights into sales trends, customer behavior, and product performance during the Diwali festival season, enabling data-driven decision-making for business improvement. 
+
+#### Data source
+
+Data : https://www.kaggle.com/datasets/saadharoon27/diwali-sales-dataset/discussion
+
+#### Project Description
+
+•	Performed Data Cleaning and Data Manipulation.
+
+•	Performed Exploratory Data Analysis (EDA) using Pandas, NumPy, Matplotlib, and Seaborn Libraries.
+
+•	Improved Customer experience by identifying potential customers across different states, occupations, gender, and age groups.
+
+•	Improved sales by identifying the most selling product categories and products, which can help to plan inventory and hence meet the demands.
+
+STEP1: DATA CLEANING AND PREPROCESSING
+
+Before start the analysis it's essential to clean and pre-process the data which includes handling the missing values, correcting the data type and dropping the null values etc.
+
+STEP2: EXPLORATARY DATA ANALYSIS (EDA)
+
+Exploratory data analysis for understand the distribution and characteristics of the data.
+
+• GENDER ANALYSIS
+
+Compare orders and amount between genders.
+Visualizing the sales distribution by gender using charts
+
+• STATEZONE ANALYSIS  
+
+Identifying the top selling states based on order count and total sales amount
+Analysing whether certain states have higher preference for specific product category
+
+• MARITAL STATUS
+
+Compare the order & amount between married & unmarried customers
+
+• PRODUCT_CATEGORY ANALYSIS
+
+calculate the total sales amount for each product category using the chart
+
+• STEP3: INSIGHTS AND TRENDS
+
+  based on the EDA you can derive the several insights and trends
+  
+• GENDER-BASED INSIGHTS:
+
+if there is significant difference in spending behaviour between the genders
+identifying the specific product category that are more popular among the particular gender
+
+• STATE-BASED INSIGHTS:
+
+RECOGNIZE WHICH GEOGRAPHICAL areas contribute the most Diwali sales
+Understand if any regional preference for the certain product category
+
+• PRODUCT CATEGORY BASED INSIGHTS :
+
+DETERMAINE the most popular category during the Diwali sales.anlaysing if there exits a co-relation between the total sales amount and the product category
+
+### Conclusion
+Based on the analysis, we can draw conclusions about the demographics and preferences of Diwali sale customers. The code provides insights into gender distribution, age groups, popular states, marital status, occupation, and preferred product categories. This information can be valuable for marketing and sales strategies during Diwali sales campaigns.
+
+### CONTACT
+LINKIND 
 
 
-## Overview
-
-This Python project focuses on analyzing Diwali sales data to gain insights that can be used to enhance customer experience and boost sales. The project utilizes various data analysis techniques to uncover patterns, trends, and key metrics related to Diwali sales.
-
-## Data source 
-data https://www.kaggle.com/datasets/saadharoon27/diwali-sales-dataset/discussion
-
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Features](#features)
-- [Installation](#installation)
-- [Data](#data)
-- [Analysis](#analysis)
-- [Results](#results)
-
-- [License](#license)
-
-## Project Description
-
-Diwali is a significant festival, and analyzing sales data during this period can provide valuable insights for businesses. This project aims to harness the power of Python and data analysis libraries to:
-
-- Understand customer behavior during Diwali.
-- Identify popular products and categories.
-- Analyze sales trends and patterns.
-- Provide actionable insights for improving customer experience and increasing sales.
-
-## Features
-
-- Data cleaning and preprocessing.
-- Exploratory data analysis (EDA) to uncover patterns.
-- Visualization of sales trends using matplotlib and seaborn.
-- Statistical analysis to identify significant factors.
-- Recommendations for improving customer experience and sales.
-
-## Installation
-
-```bash
-# Clone the repository:
-git clone https://github.com/iamtanmay07/diwali-sales-analysis.git
-
-# Navigate to the project directory:
-cd diwali-sales-analysis
-
-# Install the required dependencies:
-pip install -r requirements.txt
-```
-
-## Data
-The main analysis is carried out in Jupyter notebooks within the notebooks directory. Each notebook focuses on a specific aspect of the Diwali sales data analysis, such as data cleaning, exploratory data analysis, visualization, and recommendations.
-
-## Analysis 
-The main analysis is carried out in Jupyter notebooks within the notebooks directory. Each notebook focuses on a specific aspect of the Diwali sales data analysis, such as data cleaning, exploratory data analysis, visualization, and recommendations.
-
-## Results 
-The project results include actionable insights and recommendations that businesses can leverage to enhance customer experience and improve sales during the Diwali festival.
-
-## License 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
