@@ -66,7 +66,6 @@ DETERMAINE the most popular category during the Diwali sales.anlaysing if there 
 ### Conclusion
 Based on the analysis, we can draw conclusions about the demographics and preferences of Diwali sale customers. The code provides insights into gender distribution, age groups, popular states, marital status, occupation, and preferred product categories. This information can be valuable for marketing and sales strategies during Diwali sales campaigns.
 
-### CONTACT
-LINKIND 
+
 
 
